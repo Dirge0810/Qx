@@ -1,0 +1,68 @@
+{
+  "id": "Dirge.app.sub",
+  "name": "Dirge",
+  "author": "",
+  "icon": "https://raw.githubusercontent.com/Dirge/main/gougou.jpg",
+  "repo": "https://github.com/Dirge0811/Qx",
+  "apps": [
+    {
+      "id": "CaiYun",
+      "name": "彩云天气",
+      "keys": [
+        "@caiyun.token.caiyun",
+        "@caiyun.token.tencent",
+        "@caiyun.display_location",
+        "@caiyun.location.latitude",
+        "@caiyun.location.longitude",
+        "@caiyun.address"
+      ],
+      "settings": [
+        {
+          "id": "@caiyun.token.caiyun",
+          "name": "彩云天气API Token",
+          "val": null,
+          "type": "text",
+          "autoGrow": false,
+          "rows": 2,
+          "desc": ""
+        },
+        {
+          "id": "@caiyun.token.tencent",
+          "name": "腾讯地图API Token",
+          "val": "AHEBZ-ASTWX-CIW4P-7TV7T-AWKLS-7CFWP",
+          "type": "text",
+          "rows": 1,
+          "desc": ""
+        },
+        {
+          "id": "@caiyun.display_location",
+          "name": "是否在日志中显示经纬度",
+          "val": false,
+          "type": "boolean",
+          "desc": ""
+        },
+        {
+          "id": "@caiyun.location.latitude",
+          "name": "纬度",
+          "val": null,
+          "type": "text",
+          "desc": ""
+        },
+        {
+          "id": "@caiyun.location.longitude",
+          "name": "经度",
+          "val": null,
+          "type": "text",
+          "desc": ""
+        }
+      ],
+      "author": "@Dirge",
+      "repo": "https://github.com/Dirge0811/Qx",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/caiyun.png",
+        "https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png"
+      ],
+      "script": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js"
+    }
+  ]
+}
