@@ -21,10 +21,10 @@ const Dirge1 = JSON.parse(typeof $response != "undefined" && $response.body || n
 if (typeof $response == "undefined") {
   delete $request.headers["x-revenuecat-etag"];
   delete $request.headers["X-RevenueCat-ETag"];
-  lovebaby.headers = $request.headers;
-} else if (doudou1 && doudou1.subscriber) {
-  Dirge1.subscriber.subscriptions = doudou1.subscriber.subscriptions || {};
-  Dirge1.subscriber.entitlements = doudou1.subscriber.entitlements || {};
+  Dirge.headers = $request.headers;
+} else if (Dirge1 && Dirge1.subscriber) {
+  Dirge1.subscriber.subscriptions = Dirge1.subscriber.subscriptions || {};
+  Dirge1.subscriber.entitlements = Dirge1.subscriber.entitlements || {};
 
   const data = {
     "expires_date": "2099-12-31T00:00:00Z",
