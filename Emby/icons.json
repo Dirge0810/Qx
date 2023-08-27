@@ -4,19 +4,16 @@
 "icons":
     [
         {"name":"Misty", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Misty.png"},
-	{"name":"Captainz3", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Captainz3.png"},
 	{"name":"Dolphon1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Dolphon1.png"},
 	{"name":"Hub1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Hub1.png"},
 	{"name":"Plusemby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Plusemby.png"},
         {"name":"Dog1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Dog1.png"},
 	{"name":"Magic1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Magic1.png"},
-        {"name":"Mulgore", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Mulgore.png"},
+	{"name":"MisakaF1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/MisakaF1.png"},
 	{"name":"NmEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/NmEmby.png"},
-	{"name":"Paul", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Paul.png"},
         {"name":"PiliPili", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/PiliPili.png"},
 	{"name":"Tank1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Tank1.png"},
 	{"name":"TreeDiagram", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/TreeDiagram.png"},
-	{"name":"Sana", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Sana.png"},
         {"name":"ZhiPianRen", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ZhiPianRen.png"}
     ]
 }
